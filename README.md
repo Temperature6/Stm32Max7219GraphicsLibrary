@@ -32,7 +32,7 @@ state：状态，ON（开）或 OFF（关）
 
 设置亮度
 
-brightness：亮度，可选的值为L0~L15，或0~15
+brightness：亮度，可选的值为L0 - L15，或0 - 15
 
 #### void Max7219_Fill(void);
 
